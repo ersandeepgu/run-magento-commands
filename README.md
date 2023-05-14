@@ -3,7 +3,7 @@
 
 
 ## **Installation**
-1. Clone file (run-magento-commands) and paste is magento root directory.
+1. Clone file (sandeep_script.sh) and paste is magento root directory.
       - To make this script executable, run the command<br />
             `Chmod -X sandeep_script.sh`
       - Then run the following command<br />
